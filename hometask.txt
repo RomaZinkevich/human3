@@ -1,0 +1,66 @@
+human in master have nice buttons on his jacket (buttons branch)
+
+commit b891fdd1afdc60b5c1231628f9edcfdb03c83f18 (HEAD -> master)
+Merge: f817ff1 1a1fe51
+Author: RomaZinkevich <zra1903@mail.ru>
+Date:   Wed Dec 16 19:05:46 2020 +0300
+
+    Boots_buttons
+
+commit f817ff17792cf91c1910e4ff8b53f71b41cbb267
+Merge: df455a7 949c4a1
+Author: RomaZinkevich <zra1903@mail.ru>
+Date:   Wed Dec 16 19:05:09 2020 +0300
+
+    Hat
+
+commit 1a1fe5138b0b159b1cedd574c27199c435ae61b6 (boots_buttons)
+Merge: fec155c 1db7b7a
+Author: RomaZinkevich <zra1903@mail.ru>
+Date:   Wed Dec 16 18:51:45 2020 +0300
+
+    Buttons
+
+commit fec155cfe72daafcf4e079754aaa30c6453590bb
+Merge: df455a7 152f859
+Author: RomaZinkevich <zra1903@mail.ru>
+Date:   Wed Dec 16 18:51:17 2020 +0300
+
+    Boots
+
+commit df455a79680d70a43d65351f338e25d0ef26c169 (origin/master, origin/H
+Author: Andrew Khodzhakhanov <j2me@j2me.ws>
+Date:   Wed Jun 29 02:29:15 2016 +0300
+
+    fix readme
+
+commit 1db7b7a68098af0fd01a77aca5f808a817d5c2e3 (origin/buttons)
+Author: Andrew Khodzhakhanov <j2me@j2me.ws>
+Date:   Wed Jun 29 02:24:32 2016 +0300
+
+    dots
+
+commit 079fa1b2baa18b6a7a03ff3a7d00e9fca4d43a0c
+Author: Andrew Khodzhakhanov <j2me@j2me.ws>
+Date:   Wed Jun 29 01:02:37 2016 +0300
+
+    README added
+
+commit 152f859ca641e70864aa907bc1f5b1ba3b27acd9 (origin/boots)
+Author: Andrew Khodzhakhanov <j2me@j2me.ws>
+Date:   Wed Jun 29 00:52:53 2016 +0300
+
+    boots
+
+commit 949c4a16dbb5cd482965537bfb1558e078afd252 (origin/hat)
+Author: Andrew Khodzhakhanov <j2me@j2me.ws>
+Date:   Wed Jun 29 00:47:29 2016 +0300
+
+    heat added
+
+commit 7d5cd9d87337dcd48708dce597a3c0566cb349ef
+Author: Andrew Khodzhakhanov <j2me@j2me.ws>
+Date:   Wed Jun 29 00:46:14 2016 +0300
+
+    init
+
